@@ -6,9 +6,3 @@ node_modules/
 __pycache__/
 *.pyc
 
-# internal build files
-PLAN.md
-PROGRESS.md
-rainyroot-build-plan.md
-SCREENSHOTS.md
-.claude/
