@@ -1,0 +1,63 @@
+# run locally: pip install mkdocs-material && mkdocs serve
+# deploy: mkdocs gh-deploy (or see .github/workflows/deploy-docs.yml)
+
+site_name: The Complete Claude Guide
+site_description: A practical beginner guide to using Claude. Chat app, Claude Code, models, skills and workflows.
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Overview: 01-overview/index.md
+  - Choosing a model: 02-models/index.md
+  - The chat app: 03-chat-app/index.md
+  - Claude Code:
+      - Getting started: 04-claude-code/index.md
+      - Plan mode and permissions: 04-claude-code/plan-and-permissions.md
+      - CLAUDE.md memory: 04-claude-code/claude-md.md
+      - Slash commands: 04-claude-code/slash-commands.md
+      - Skills: 04-claude-code/skills.md
+      - Subagents: 04-claude-code/subagents.md
+      - Hooks: 04-claude-code/hooks.md
+      - MCP: 04-claude-code/mcp.md
+  - VS Code vs app: 05-vscode-vs-app/index.md
+  - Skills deep dive: 06-skills-deep-dive/index.md
+  - Project workflows: 07-project-workflows/index.md
+  - Tips and tricks: 08-tips-and-tricks/index.md
+  - Permissions and safety: 09-permissions-and-safety/index.md
+  - Cookbook: 10-cookbook/index.md
+  - Glossary: glossary.md
