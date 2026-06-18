@@ -10,13 +10,13 @@ Written for people who know how to use a computer and GitHub but are new to Clau
 
 ### just want to chat
 
-- [01 - Overview](docs/01-overview/index.md) - what Claude is and which tool to use for what
-- [02 - Choosing a model](docs/02-models/index.md) - Opus vs Sonnet vs Haiku vs Fable, when to use which
-- [03 - The chat app](docs/03-chat-app/index.md) - claude.ai, Projects, memory, Artifacts, web search
+- [01 Overview](docs/01-overview/index.md) - what Claude is and which tool to use for what
+- [02 Choosing a model](docs/02-models/index.md) - Opus vs Sonnet vs Haiku vs Fable, when to use which
+- [03 The chat app](docs/03-chat-app/index.md) - claude.ai, Projects, memory, Artifacts, web search
 
 ### want to code with AI
 
-- [04 - Claude Code](docs/04-claude-code/index.md) - install, first session, how the agent loop works
+- [04 Claude Code](docs/04-claude-code/index.md) - install, first session, how the agent loop works
   - [Plan mode and permissions](docs/04-claude-code/plan-and-permissions.md)
   - [CLAUDE.md](docs/04-claude-code/claude-md.md) - give Claude standing instructions for your project
   - [Slash commands](docs/04-claude-code/slash-commands.md)
@@ -28,8 +28,8 @@ Written for people who know how to use a computer and GitHub but are new to Clau
 
 ### want to go deeper
 
-- [06 - Skills deep dive](docs/06-skills-deep-dive/index.md) - build a skill from scratch
-- [07 - Project workflows](docs/07-project-workflows/index.md) - CLAUDE.md + PLAN.md + PROGRESS.md, git hygiene
+- [06 Skills deep dive](docs/06-skills-deep-dive/index.md) - build a skill from scratch
+- [07 Project workflows](docs/07-project-workflows/index.md) - CLAUDE.md + PLAN.md + PROGRESS.md, git hygiene
 - [08 - Tips and tricks](docs/08-tips-and-tricks/index.md) - context management, prompting, cost control
 - [09 - Permissions and safety](docs/09-permissions-and-safety/index.md) - the honest guide to "unrestricted mode"
 - [10 - Cookbook](docs/10-cookbook/index.md) - step by step recipes you can copy
