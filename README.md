@@ -10,9 +10,9 @@ Written for people who know how to use a computer and GitHub but are new to Clau
 
 ### just want to chat
 
-- [01 Overview](docs/01-overview/index.md) - what Claude is and which tool to use for what
-- [02 Choosing a model](docs/02-models/index.md) - Opus vs Sonnet vs Haiku vs Fable, when to use which
-- [03 The chat app](docs/03-chat-app/index.md) - claude.ai, Projects, memory, Artifacts, web search
+- [01 Overview](docs/01-overview/index.md) what Claude is and which tool to use for what
+- [02 Choosing a model](docs/02-models/index.md) Opus vs Sonnet vs Haiku vs Fable, when to use which
+- [03 The chat app](docs/03-chat-app/index.md) claude.ai, Projects, memory, Artifacts, web search
 
 ### want to code with AI
 
