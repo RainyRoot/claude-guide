@@ -1,0 +1,14 @@
+site/
+.cache/
+.env
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+
+# internal build files
+PLAN.md
+PROGRESS.md
+rainyroot-build-plan.md
+SCREENSHOTS.md
+.claude/
