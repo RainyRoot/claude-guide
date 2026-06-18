@@ -30,9 +30,9 @@ Written for people who know how to use a computer and GitHub but are new to Clau
 
 - [06 Skills deep dive](docs/06-skills-deep-dive/index.md) - build a skill from scratch
 - [07 Project workflows](docs/07-project-workflows/index.md) - CLAUDE.md + PLAN.md + PROGRESS.md, git hygiene
-- [08 - Tips and tricks](docs/08-tips-and-tricks/index.md) - context management, prompting, cost control
-- [09 - Permissions and safety](docs/09-permissions-and-safety/index.md) - the honest guide to "unrestricted mode"
-- [10 - Cookbook](docs/10-cookbook/index.md) - step by step recipes you can copy
+- [08 Tips and tricks](docs/08-tips-and-tricks/index.md) - context management, prompting, cost control
+- [09 Permissions and safety](docs/09-permissions-and-safety/index.md) - the honest guide to "unrestricted mode"
+- [10 Cookbook](docs/10-cookbook/index.md) - step by step recipes you can copy
 
 ### reference
 
