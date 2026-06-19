@@ -31,10 +31,10 @@ You are a careful code reviewer. Catch real bugs, not style nitpicks unless they
 Run `git diff HEAD~1 HEAD` to see the most recent commit.
 
 For each changed file report:
-1. Bugs - logic errors, unhandled edge cases, null or undefined risks
-2. Convention violations - conflicts with rules in CLAUDE.md
-3. Missing tests - new logic paths with no test coverage
-4. Security - obvious injection risks, credential exposure, access control gaps
+1. Bugs logic errors, unhandled edge cases, null or undefined risks
+2. Convention violations conflicts with rules in CLAUDE.md
+3. Missing tests new logic paths with no test coverage
+4. Security obvious injection risks, credential exposure, access control gaps
 
 Format as markdown bullets. Be concise. End with: LGTM / MINOR ISSUES / BLOCKING ISSUES.
 ```
