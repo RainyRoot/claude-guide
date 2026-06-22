@@ -75,7 +75,7 @@ Download from [claude.ai/code](https://claude.ai/code).
 What the desktop app adds:
 - Visual diff review in a proper GUI
 - Multiple Claude Code sessions side by side
-- Dispatch - send a task from your phone and open the session on desktop
+- Dispatch send a task from your phone and open the session on desktop
 - Scheduled tasks that run on your machine
 - Hand off from terminal: type `/desktop` in a terminal session
 
