@@ -44,10 +44,10 @@ cd my-project && claude
 Install from the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) or search "Claude Code" in Extensions (`Ctrl+Shift+X` on Windows/Linux, `Cmd+Shift+X` on Mac).
 
 What you get over the terminal:
-- **Inline diffs** - proposed edits appear in the VS Code diff view, not just as text
-- **@-mentions** - type `@filename` or `@selection` to give Claude explicit context
-- **Plan review** - approve or reject Claude's plan in a visual panel
-- **Conversation history** - see past sessions in the panel
+- **Inline diffs** proposed edits appear in the VS Code diff view, not just as text
+- **@-mentions** type `@filename` or `@selection` to give Claude explicit context
+- **Plan review** approve or reject Claude's plan in a visual panel
+- **Conversation history** see past sessions in the panel
 
 Open Claude Code via the Command Palette: `Cmd+Shift+P` / `Ctrl+Shift+P` -> Claude Code: Open in New Tab.
 
